@@ -8,8 +8,8 @@ public class snake
 	public static byte keyLeft;
 	public static byte keyRight;
 
-	public static char snakeHead = '*';
-	public static char snakeBody = '+';
+	public static char snakeHead = '+';
+	public static char snakeBody = '\u2588';
 	public static byte sx = 5; //snake x position
 	public static byte sy = 5; //snake y position
 	public static byte dx;
