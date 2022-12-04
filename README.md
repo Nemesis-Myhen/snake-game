@@ -4,9 +4,11 @@ compile snake.java in snake.class
 
 compile ext.c in ext.dll
 
+
 how to run:
 
 java snake
+
 
 notes:
 
